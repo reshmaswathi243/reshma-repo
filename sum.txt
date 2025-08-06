@@ -2,6 +2,7 @@ A=30
 B=40
 C=20
 D=10
-print(A+B+C+)
+print(A+B+C+D)
+
 
 
